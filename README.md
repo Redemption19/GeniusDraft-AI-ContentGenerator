@@ -18,6 +18,14 @@ GeniusDraft AI is a subscription-based SaaS AI content generator designed to rev
 ## Register Screen
 ![register](https://github.com/Redemption19/GeniusDraft-AI-ContentGenerator/assets/56071671/0d7b3184-621c-4bff-8f4f-a5984d322931)
 
+## Login Screen
+![login2](https://github.com/Redemption19/GeniusDraft-AI-ContentGenerator/assets/56071671/5e60ab21-5e12-49d9-bbc2-385171270ab9)
+
+## User Dashboard Screen
+![dasboard](https://github.com/Redemption19/GeniusDraft-AI-ContentGenerator/assets/56071671/46027647-ce02-44e3-b9e4-e79054fdfa05)
+
+
+
 ### Features
 1. **AI-Powered Content Creation**
    - Generate high-quality blog posts effortlessly with our advanced AI technology, tailored to match your unique voice and style.
