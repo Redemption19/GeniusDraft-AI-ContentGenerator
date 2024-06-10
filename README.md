@@ -10,6 +10,11 @@ GeniusDraft AI is a subscription-based SaaS AI content generator designed to rev
 
 **Solution:** To tackle this issue, GeniusDraft AI harnesses advanced AI technology to streamline content creation, empowering users to generate high-quality content efficiently and effortlessly.
 
+## Screenshots
+
+## Home Screen
+
+
 ### Features
 1. **AI-Powered Content Creation**
    - Generate high-quality blog posts effortlessly with our advanced AI technology, tailored to match your unique voice and style.
